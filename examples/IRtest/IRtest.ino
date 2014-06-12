@@ -9,8 +9,8 @@
  * the arduino IDE.
  */
 
-#include <IRremote.h>
-#include <IRremoteInt.h>
+#include <IRremote_library.h>
+#include <IRremoteInt_library.h>
 
 // Dumps out the decode_results structure.
 // Call this after IRrecv::decode()
